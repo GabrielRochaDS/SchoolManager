@@ -35,7 +35,7 @@ O **SchoolManager** é um projeto Java que simula um sistema acadêmico completo
 
 ---
 
-## ** Arquitetura e Tecnologias**  
+## Arquitetura e Tecnologias
 
 O projeto segue uma **arquitetura em camadas**, organizada da seguinte forma:  
 
